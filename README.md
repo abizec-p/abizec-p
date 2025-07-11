@@ -10,13 +10,17 @@
 
 ## 🔥 Featured Projects
 
-### 🔐 [Popup Login Modal](https://github.com/abizec-p/popup-login-modal)
+### 🔐 [Popup Login Modal](https://popuploginmodal.netlify.app/)
 A sleek login modal using **ReactJS**, **Framer Motion**, and custom CSS.  
 🔧 Technologies: React, Framer Motion, TailwindCSS
 
 
 ### 📱 [React Calculator App](https://calculatemate.netlify.app/)
 A basic calculator with a custom UI and keyboard input support.  
+⚙️ Built using React and styled-components
+
+### 📱 [HVAC Website](https://2broshvac.ca/)
+Website for a HVAC company named 2 bros Hvac.  
 ⚙️ Built using React and styled-components
 
 ---
