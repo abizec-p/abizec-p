@@ -9,6 +9,13 @@
 ---
 
 ## 🔥 Featured Projects
+[CrypTrade: Crypto Market Dashboard](https://your-cryptrade-link.vercel.app)
+
+	Built a crypto market dashboard with Next.js that shows live prices from the CoinGecko API
+
+	Displays top coins with market cap, 24h change, and 24h volume
+
+	Adding user login and personal portfolio tracking so users can record their own holdings
 
 [Next.js Dashboard App by Vercel](https://nextjs-learn-pearl-three.vercel.app)
 
