@@ -4,7 +4,7 @@
 🧠 Passionate about web development, motion UI, and building cool user interfaces.
 
 🌐 **Portfolio**: [abishekpariyar.com](https://abishekpariyar.com)  
-📫 **Email**: pariyarabishek@gmail.com
+📫 **Email**: abijakepariyar@gmail.com
 
 ---
 
